@@ -1,0 +1,28 @@
+name: forum
+favicon: null
+layout_spectrum: 0.22345596179366112
+typography_spectrum: 0.2833575995173305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8212455923203379
+  lightness: 0.6575699122622609
+  saturation: 0.8640750290360302
+  rhythmicContrast: 0.42046259087510407
+purpose: []
